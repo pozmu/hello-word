@@ -1,2 +1,6 @@
 # hello-word
-sample repository
+
+Hello
+I'm pozmu
+
+Bye
